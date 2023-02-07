@@ -5,5 +5,6 @@ create table if not exists git_assignment(
   joinDate   date        NOT NULL,
   balance decimal(10,2)   NULL,
   active boolean     NOT NULL,
-  comments   text        
+  comments   text,
+  status CHAR(1)        
 );
