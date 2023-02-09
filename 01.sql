@@ -6,5 +6,6 @@ create table if not exists git_assignment(
   balance decimal(10,2)   NULL,
   active boolean     NOT NULL,
   comments   text,
-  status CHAR(1)        
+  status CHAR(1),
+  email varchar(30)
 );
