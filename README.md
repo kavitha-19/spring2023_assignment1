@@ -7,3 +7,6 @@ Person 2: MD Ajijul Islam
 created branch "br_person2" and 
 Added new column (status) in sql file
 
+Person 3: Sharmisha Yelapati
+created branch "br_person3" and 
+Added new column (email) in sql file
